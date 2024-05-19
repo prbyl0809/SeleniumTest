@@ -1,0 +1,2 @@
+Selenium Test Project
+This project is a Java-based Selenium testing framework that automates web browser interactions to validate the functionality of web pages. It uses JUnit for test execution and Selenium WebDriver for browser automation.
